@@ -1,0 +1,16 @@
+{
+    "name": "mvorisek/packagist",
+    "description": "Reserve Packagist NS",
+    "type": "library",
+    "homepage": "https://www.mvorisek.com/",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Michael Voříšek",
+            "email": "mvorisek@mvorisek.cz"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    }
+}
